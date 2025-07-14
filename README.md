@@ -1,6 +1,8 @@
 # The Ancient Geniuses
 
-by RTUchiha
+<img src="Trees.png" alt="drawing" style="width:300px;"/>
+
+**by RTUchiha**
 
 Trees are not just oxygen factories that occasionally crush people during storms. (Except they absolutely are.) They are the Stephen Hawkings of nature—brilliant minds trapped in wooden prisons, forced to watch humanity invent both antibiotics and nuclear weapons without being able to say "what the hell are you doing?" Their silence isn't peaceful. It's mandatory.
 
